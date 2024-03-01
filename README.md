@@ -2,7 +2,7 @@
 
 # Hi, I'm Adrian
 - 👋 Hi, I’m Adrian
-- 🌱 I’m currently learning how to remote controll things by the internet
+- 🌱 I’m currently learning how to remote control things by the internet
 <br />
 <br />
 
