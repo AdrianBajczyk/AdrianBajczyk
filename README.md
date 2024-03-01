@@ -46,6 +46,11 @@
 
 >### Codewars:
 >[![Codewars Badge](https://www.codewars.com/users/AdrianBajczyk/badges/large)](https://www.codewars.com/users/AdrianBajczyk)
+<br />
+
+>### Stackoverflow:
+>
+><a href="https://stackoverflow.com/users/23237258/adrianbajczyk"><img src="https://stackoverflow.com/users/flair/23237258.png" width="208" height="58" alt="profile for AdrianBajczyk at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AdrianBajczyk at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <br />
 <br />
