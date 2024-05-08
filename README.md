@@ -13,12 +13,7 @@
 <br />
 <br />
 
-## Here is my latest working website after deployment: 
-- [Toyer web app](https://toyer.azurewebsites.net/) - actually working website
-- [Toyer origin code](https://github.com/AdrianBajczyk/Toyer) - the code for Toyer
 
-<br />
-<br />
 
 ## And my tech stack:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=80 height=80>,
@@ -40,12 +35,23 @@
 <br />
 
 ## Last but not least, my stats:
->### GitHub:
->[![GitHub Streak](https://streak-stats.demolab.com?user=AdrianBajczyk&theme=transparent&border_radius=10&card_width=500)](https://git.io/streak-stats)
-<br />
+
 
 >### Codewars:
 >[![Codewars Badge](https://www.codewars.com/users/AdrianBajczyk/badges/large)](https://www.codewars.com/users/AdrianBajczyk)
+<br />
+
+
+<!---
+## Here is my latest working website after deployment: 
+- [Toyer web app](https://toyer.azurewebsites.net/) - actually working website
+- [Toyer origin code](https://github.com/AdrianBajczyk/Toyer) - the code for Toyer
+
+<br />
+<br />
+
+>### GitHub:
+>[![GitHub Streak](https://streak-stats.demolab.com?user=AdrianBajczyk&theme=transparent&border_radius=10&card_width=500)](https://git.io/streak-stats)
 <br />
 
 >### Stackoverflow:
@@ -54,7 +60,7 @@
 
 <br />
 <br />
-<!---
+
 AdrianBajczyk/AdrianBajczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
